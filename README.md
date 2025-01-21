@@ -48,7 +48,8 @@ Hola, soy **Pablo Franco Bernal**, actualmente estudiante de un **doble máster 
 Si deseas contactarme, aquí tienes mis datos:
 - **Correo**: [pablofrancobernal@gmail.com](mailto:pablofrancobernal@gmail.com)
 - **Teléfono**: +34 601 125 170
-- **LinkedIn**: [Mi perfil](https:(https://www.linkedin.com/in/pablo-franco-bernal-bb19a3213/))
+- **LinkedIn**: [Mi perfil en LinkedIn](https://www.linkedin.com/in/pablo-franco-bernal-bb19a3213/)
+
 
 ---
 
